@@ -1,0 +1,6 @@
+{
+  "name": "청년에게 필요한 취업 교육 선택",
+  "description": "청년들의 학업 요건, 희망 기간 및 수준에 맞춘 최적의 검증된 교육 과정을 매칭하고 투명하게 요약 정보를 제공하는 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
